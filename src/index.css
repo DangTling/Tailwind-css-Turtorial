@@ -10,4 +10,8 @@
   .btn-hover {
     @apply cursor-pointer mb-5 p-2 rounded-[12px] hover:bg-white hover:text-purple-500 transition-all duration-200;
   }
+
+  .input {
+    @apply pb-1 border-b-2 border-pink-600 outline-none;
+  }
 }
